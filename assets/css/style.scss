@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+.container{
+width: 100%;
+max-width: 1500px;
+margin: 0 auto
+}
+#main_content{
+width: 100%;
+-webkit-font-smoothing: antialiased;
+}
